@@ -11,8 +11,8 @@ const Pricing = () => {
     <section id="pricing" className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="Simple and Affordable Pricing"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Transparent Service Pricing"
+          paragraph="Choose from our flexible pricing plans designed to meet your business needs, from startups to enterprise-level organizations."
           center
           width="665px"
         />
@@ -64,12 +64,12 @@ const Pricing = () => {
             duration={isMonthly ? "mo" : "yr"}
             subtitle="Lorem ipsum dolor sit amet adiscing elit Mauris egestas enim."
           >
-            <OfferList text="All UI Components" status="active" />
-            <OfferList text="Use with Unlimited Projects" status="active" />
-            <OfferList text="Commercial Use" status="active" />
+            <OfferList text="Basic Security Assessment" status="active" />
+            <OfferList text="5 Hours IT Consultation" status="active" />
+            <OfferList text="Basic System Monitoring" status="active" />
             <OfferList text="Email Support" status="active" />
-            <OfferList text="Lifetime Access" status="inactive" />
-            <OfferList text="Free Lifetime Updates" status="inactive" />
+            <OfferList text="24/7 Support" status="inactive" />
+            <OfferList text="Advanced Threat Protection" status="inactive" />
           </PricingBox>
           <PricingBox
             packageName="Basic"

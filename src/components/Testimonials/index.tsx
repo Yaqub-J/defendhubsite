@@ -8,25 +8,25 @@ const testimonialData: Testimonial[] = [
     name: "Musharof Chy",
     designation: "Founder @TailGrids",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "DefendHub's cybersecurity solutions have transformed how we handle our digital security. Their proactive approach and expert team have made us feel completely secure.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
   {
     id: 2,
     name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    designation: "CTO @TechCorp",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "The custom software development services provided by DefendHub have significantly improved our operational efficiency. Their attention to detail and technical expertise is outstanding.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
     name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    designation: "CEO @InnovateNow",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Their IT consulting services have been invaluable to our business growth. The team's deep understanding of technology and business needs sets them apart from others.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
